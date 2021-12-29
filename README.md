@@ -1,2 +1,2 @@
-# StateChange-Hide-changeColor
+# ChangeState-hide
 Created with CodeSandbox
